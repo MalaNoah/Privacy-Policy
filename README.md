@@ -47,7 +47,7 @@
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
 Email: ninonakanobot@gmail.com
-Devs: ``, Mr.A7md#7485``&``Wumpus#4846``
+Devs: ``, Mr.A7md#7485`` ``Wumpus#4846``
 
 <a href="https://discord.gg/4m67scdTEW"><img src="https://discord.com/api/guilds/1046125012911931474/widget.png?style=banner2"></a>
 
