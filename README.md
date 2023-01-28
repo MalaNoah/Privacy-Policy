@@ -51,5 +51,5 @@ Devs: ``, Mr.A7md#7485``&``Wumpus#4846``
 
 <a href="https://discord.gg/4m67scdTEW"><img src="https://discord.com/api/guilds/1046125012911931474/widget.png?style=banner2"></a>
 
-<a href="https://discord.gg/4m67scdTEW" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>  <a href="mailto: ninonakanobot@gmail.com"> <img src="https://img.shields.io/badge/Gmail-145bcd?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /> </a>
+<a href="https://discord.gg/4m67scdTEW" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>  <a href="mailto: ninonakanobot@gmail.com"> <img src="https://img.shields.io/badge/Gmail-145bcd?style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
 
