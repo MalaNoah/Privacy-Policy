@@ -8,13 +8,13 @@
 
 -The ``userId`` is collecting all user data
 
--We Store ``xp`` for ``Level`` Of User 
+-We Store ``cowoncy`` Of User 
 
 **__Why We Store Data And Where We Store Data ?__**
 
 **``userId data:``**
 
--We Store ``userId`` Because if We Don't Store it All Cash or xp or Level of User Will Be Gone 
+-We Store ``userId`` Because if We Don't Store it All Cash User Will Be Gone 
 
 -And Data Stored On Mongodb And Very Secure And Encrypted
 
@@ -32,7 +32,7 @@
 
 **Are We Sell Or Share Users Data ?**
 
--No, We Do Not Sell and Share Any Data Stored by Jungle.
+-No, We Do Not Sell and Share Any Data Stored by Nino Nakano.
 
 **Can Users Request Deletion Thier Data ?**
 
