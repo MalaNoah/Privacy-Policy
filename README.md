@@ -1,5 +1,4 @@
-# Nino Nakano
-
+# WoW
 **We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various Ways**
 
 **__What Data We Store ?__**
@@ -32,7 +31,7 @@
 
 **Are We Sell Or Share Users Data ?**
 
--No, We Do Not Sell and Share Any Data Stored by Nino Nakano.
+-No, We Do Not Sell and Share Any Data Stored by WoW.
 
 **Can Users Request Deletion Thier Data ?**
 
@@ -46,8 +45,7 @@
 
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
-Email: ninonakanobot@gmail.com
-Devs: ``, Mr.A7md#7485`` ``Wumpus#4846``
+Email: diswowbot@gmail.com
 
 <a href="https://discord.gg/4m67scdTEW"><img src="https://discord.com/api/guilds/1046125012911931474/widget.png?style=banner2"></a>
 
